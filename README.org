@@ -1,0 +1,5 @@
+* LPC1768 interface with SIM900 using FreeRTOS
+* Tasks
+** Updating README
+** CI/CD Build badges
+** Comments and architecture diagram
